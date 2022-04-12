@@ -1,1 +1,1 @@
-# IsingProject
+# IsingProjectfrom computer
